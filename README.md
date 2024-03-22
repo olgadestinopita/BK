@@ -1,2 +1,2 @@
-# SISFO_CI
-A Web-based information system for academic purpose using CodeIgnter PHP Framework, containing academic databases such as record of students, lecturer, courses, etc (in Indonesian).
+**Sistem Informasi Bimbingan Konseling**
+Berisi data siswa, data guru, orang tua siswa, bimbingan dan pelanggaran.
